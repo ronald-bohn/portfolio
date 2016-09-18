@@ -1,0 +1,1 @@
+#define FUNCTION_UNDEFINED -1
